@@ -1,0 +1,29 @@
+name: gaston11276/characters
+version: 0.1.0
+description: NFive Plugin
+author: gaston11276
+license: LGPL-3.0-or-later
+server:
+  main:
+    - Gaston11276.Characters.Server
+  include:
+    - Gaston11276.Characters.Shared
+client:
+  main:
+    - Gaston11276.Characters.Client
+  include:
+    - Gaston11276.Characters.Shared
+dependencies:
+  gaston11276/fivemui: ^0.1.0
+  gaston11276/spawnmenu: ^0.1.0
+  gaston11276/modelmenu: ^0.1.0
+repositories:
+  - name: gaston11276/fivemui
+    type: local
+    path: C:\Users\johan\source\repos\NFive\gaston11276\Fivemui
+  - name: gaston11276/spawnmenu
+    type: local
+    path: C:\Users\johan\source\repos\NFive\gaston11276\spawnmenu
+  - name: gaston11276/modelmenu
+    type: local
+    path: C:\Users\johan\source\repos\NFive\gaston11276\modelmenu

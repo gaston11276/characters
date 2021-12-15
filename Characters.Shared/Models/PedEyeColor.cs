@@ -1,0 +1,40 @@
+namespace Gaston11276.Characters.Shared.Models
+{
+	public enum PedEyeColor
+	{
+		Green,
+		DarkGreen,
+		LightBlue,
+		Blue,
+		LightBrown,
+		Brown,
+		Orange,
+		BlueGrey,
+		LightBlueGrey,
+		Pink,
+		Yellow,
+		Purple,
+		Black,
+		RingsPattern,
+		Sunburst,
+		Nuclear,
+		Wheel,
+		RedWhiteBlack,
+		BlueYellowRed,
+		WhiteBlueBlack,
+		TargetPattern,
+		GreenReptile,
+		RedReptile,
+		BlueReptile,
+		YellowReptile,
+		Smiley,
+		AllBlack,
+		AllRed,
+		AllRedBlue,
+		AllBlueBlack,
+		Zombie,
+		GlossedOver,
+
+		NumberOfPedEyeColors
+	}
+}
