@@ -13,6 +13,11 @@ client:
     - Gaston11276.Characters.Client
   include:
     - Gaston11276.Characters.Shared
+  files:
+    - SimpleUi.dll
+    - Gaston11276.Fivemui.Client.net.dll
+    - Gaston11276.Spawnmenu.Client.net.dll
+    - Gaston11276.Modelmenu.Client.net.dll
 dependencies:
   gaston11276/fivemui: ^1.0.0
   gaston11276/spawnmenu: ^1.0.0
