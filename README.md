@@ -8,7 +8,7 @@ NFive Plugin
 ## Installation
 Install the plugin into your server from the [NFive Hub](https://hub.nfive.io/gaston11276/characters): `nfpm install gaston11276/characters`
 
-# playercharacters
+# characters
 Igicore's plugin Characters has been used as a foundation.
 
 F1 - Character creator.
